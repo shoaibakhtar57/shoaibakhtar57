@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Full Stack
 - 👯 I’m looking to collaborate on New Flutter Packages
-<!-- - 🤔 I’m looking for help with  -->
-<!-- - 💬 Ask me about  -->
 - 📫 How to reach me: shoaib.dev57@gmail.com
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact:  -->
+<!-- 4- 🤔 I’m looking for help with  -->
+<!-- 5- 💬 Ask me about  -->
 
