@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Full Stack
-- 👯 I’m looking to collaborate on New Flutter Packages
+- 🌱 I’m currently learning Block Chain and Cyber Security
+- 👯 I’m looking to work on Cyber Security
 - 📫 How to reach me: shoaib.dev57@gmail.com
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact:  -->
