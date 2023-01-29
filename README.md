@@ -1,3 +1,6 @@
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibakhtar57&label=Profile%20views&color=0e75b6&style=flat" alt="mujeebdev03" /> </p>
 
 ### Hi there 👋
