@@ -1,4 +1,4 @@
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF" /></a>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibakhtar57&label=Profile%20views&color=0e75b6&style=flat" alt="mujeebdev03" /> </p>
