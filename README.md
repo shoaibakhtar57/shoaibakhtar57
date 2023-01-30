@@ -1,7 +1,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF" /></a>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibakhtar57&label=Profile%20views&color=0e75b6&style=flat" alt="mujeebdev03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibakhtar57&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibakhtar57" /> </p>
 
 ### Hi there 👋
 
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujeebdev03&show_icons=true&locale=en&layout=compact" alt="shoaibakhtar57" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaibakhtar57&show_icons=true&locale=en&layout=compact" alt="shoaibakhtar57" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaibakhtar57&show_icons=true&locale=en" alt="shoaibakhtar57" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibakhtar57&" alt="mujeebdev03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibakhtar57&" alt="shoaibakhtar57" /></p>
 
 
