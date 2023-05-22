@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 
 ### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaibakhtar57&show_icons=true&locale=en&layout=compact" alt="shoaibakhtar57" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shoaibakhtar57&show_icons=true&locale=en&layout=compact" alt="shoaibakhtar57" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaibakhtar57&show_icons=true&locale=en" alt="shoaibakhtar57" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shoaibakhtar57&show_icons=true&locale=en" alt="shoaibakhtar57" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibakhtar57&" alt="shoaibakhtar57" /></p>
 
